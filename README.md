@@ -41,3 +41,4 @@ The Warehouse environment is kept in *Warehouse.unity* and models a simple wareh
 
 - Check if the readme works for both Ubuntu and Windows (like git clone)
 - Steps to show how to change the display from 1 to 4 for the shopping environment.
+- Steps to show how to change back to display 1 for other environments.
