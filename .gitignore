@@ -1,0 +1,22 @@
+# =============== #
+# Unity generated #
+# =============== #
+MAARS/Temp/
+MAARS/Library/
+MAARS/Logs/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+MAARS/ExportedObj/
+MAARS/obj/
+MAARS/.vs/
+MAARS/*.svd
+MAARS/*.userprefs
+MAARS/*.csproj
+MAARS/*.pidb
+MAARS/*.suo
+MAARS/*.sln
+MAARS/*.user
+MAARS/*.unityproj
+MAARS/*.booproj
