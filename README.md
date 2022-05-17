@@ -19,19 +19,19 @@ Included with this repository are multiple sample environments that show the kin
 
 # Sample Environments in MAARS
 ## Office
-The Office environment is kept in *OfficeScene.unity* and models an office where a human worker can monitor robots that are in another part of the office completing tasks.
+The Office environment is kept in *OfficeScene.unity* and models an office where a human worker works alongside a team of robots, in a shared office environment. The human worker can monitor the robots that are working alongside in the shared environment.
 
- - There is a tablet on the worker's desk that shows some information about the robots out doing tasks.
+ - There is a tablet on the worker's desk that enables the human to track the status of the robots, including their current location, and their future plans.
  
 ## Shopping
 The Shopping environment is kept in *BUScene.unity* and models a small shopping mall where the user can remotely make purchases as multiple vendors.
 
- - The player's view is on display 4 in the Unity Editor here.
- - In the top-left corner of the player's screen there is a drop-down bar where the player can select a product to "buy". Choosing a product will point the player's camera to that product's vendor.
- - Clicking the "buy" button will send an employee with the product from the vendor to the player. The employee's path can be seen highlighted on the screen.
+ - The human's view is on display 4 in the Unity Editor here.
+ - In the top-left corner of the human's screen there is a drop-down bar where the human can select a product to "buy". Choosing a product will point the human's camera to that product's vendor.
+ - Clicking the "buy" button will send an employee with the product from the vendor to the human. The employee's path can be seen highlighted on the screen.
 
 ## Warehouse
 The Warehouse environment is kept in *Warehouse.unity* and models a simple warehouse with rows and columns of racks, a human, package drop stations, and package-collecting robots.
 
- - Included is an AIHuman that will automatically travel between drop stations to help robots, as well as a KeyboardControlledHuman that can be enabled to allow the user to move the human manually with WASD and the Mouse to look.
- - The number of rows and columns of racks, number of robots, and other variables can be modified withing the WarehouseCreater GameObject.
+ - Included is an AIHuman that will automatically travel between drop stations to help robots, as well as a KeyboardControlledHuman that can be enabled to allow the user to move the human manually with WASD or the Arrow Keys, and the Mouse to look.
+ - The number of rows and columns of racks, number of robots, and other variables can be modified withing the WarehouseCreater GameObject to scale the warehouse to the required size.
