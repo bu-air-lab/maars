@@ -35,3 +35,8 @@ The Warehouse environment is kept in *Warehouse.unity* and models a simple wareh
 
  - Included is an AIHuman that will automatically travel between drop stations to help robots, as well as a KeyboardControlledHuman that can be enabled to allow the user to move the human manually with WASD or the Arrow Keys, and the Mouse to look.
  - The number of rows and columns of racks, number of robots, and other variables can be modified withing the WarehouseCreater GameObject to scale the warehouse to the required size.
+
+
+## Todo
+
+- Check if the readme works for both Ubuntu and Windows (like git clone)
